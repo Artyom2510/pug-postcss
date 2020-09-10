@@ -1,0 +1,32 @@
+.adf {
+	display: flex;
+}
+
+.a {
+	display: flex;
+	align-items: center;
+
+	span {
+		color: #333;
+		font-size: 20px;
+		left: 10px;
+		font-weight: 400;
+	}
+
+	&__b {
+		display: block;
+		color: #444;
+	}
+}
+
+.list {
+	display: block;
+
+	&__item {
+		color: #444;
+	}
+}
+
+.fffffffff {
+	color: #fff;
+}
